@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/DUVAN/Desktop/stm stuff/LAB2_ROB/build/Debug/cmake_install.cmake",
+		"C:/Users/DUVAN/Desktop/stm stuff/LAB2_ROB/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
